@@ -26,12 +26,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/colinweiner111"
-    # - label: "LinkedIn"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   url: "https://linkedin.com/in/yourprofile"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/yourhandle"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/colinweiner"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:colin@cweiner.com"
 
 # Site Footer
 footer:
