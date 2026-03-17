@@ -20,7 +20,7 @@ search_full_content: true
 author:
   name: "Colin Weiner"
   avatar: "/assets/images/bio-photo.svg"
-  bio: "Software Engineer & Builder. I enjoy building things that live on the web."
+  bio: ""
   location: # e.g. "New York, NY"
   links:
     - label: "GitHub"
